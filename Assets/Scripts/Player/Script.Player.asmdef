@@ -1,0 +1,22 @@
+{
+    "name": "Script.Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f9e79703cf4586a42897bf053312c620",
+        "GUID:d7523aaa96dc1aa47996ac27801ef053"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WSA",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
